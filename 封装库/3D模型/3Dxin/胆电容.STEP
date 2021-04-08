@@ -1,0 +1,28 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('胆电容.STEP',
+    '2013-05-16T14:48:00',
+    ( 'pc' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2013',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #8 ) ;
+#2 = PRODUCT_DEFINITION ( '未知', '', #7, #9 ) ;
+#3 = PRODUCT ( '胆电容', '胆电容', '', ( #11 ) ) ;
+#4 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #3 ) ) ;
+#5 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#6 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #2 ) ;
+#7 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( '任何', '', #3, .NOT_KNOWN. ) ;
+#8 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#9 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #5, 'design' ) ;
+#10 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #5 ) ;
+#11 = PRODUCT_CONTEXT ( 'NONE', #8, 'mechanical' ) ;
+ENDSEC;
+END-ISO-10303-21;

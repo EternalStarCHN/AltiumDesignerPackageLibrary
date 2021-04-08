@@ -1,0 +1,28 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('编码开关.STEP',
+    '2013-05-16T14:50:27',
+    ( 'pc' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2013',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #9 ) ;
+#2 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#3 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( '任何', '', #7, .NOT_KNOWN. ) ;
+#4 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #7 ) ) ;
+#5 = PRODUCT_DEFINITION ( '未知', '', #3, #11 ) ;
+#6 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #5 ) ;
+#7 = PRODUCT ( '编码开关', '编码开关', '', ( #10 ) ) ;
+#8 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #2 ) ;
+#9 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#10 = PRODUCT_CONTEXT ( 'NONE', #9, 'mechanical' ) ;
+#11 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #2, 'design' ) ;
+ENDSEC;
+END-ISO-10303-21;
