@@ -66,3 +66,5 @@
 + 天线、通信相关
     + ESP模块
     + 天线
+# 许可证
+AltiumDesignerPackageLibrary is licensed under [GPL-3.0 License](https://github.com/EternalStarCHN/AltiumDesignerPackageLibrary/blob/main/LICENSE).
