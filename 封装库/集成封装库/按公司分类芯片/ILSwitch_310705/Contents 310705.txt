@@ -1,0 +1,11 @@
+Altium Limited
+
+
+IL Switch
+Batch Number 310705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+IL Switch Push Button.IntLib
+Log310705.txt

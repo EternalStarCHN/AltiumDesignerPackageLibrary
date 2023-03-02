@@ -1,0 +1,11 @@
+Altium Limited
+
+
+CLIFF
+Batch Number 160705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+CLIFF Jack Socket.IntLib
+Log160705.txt

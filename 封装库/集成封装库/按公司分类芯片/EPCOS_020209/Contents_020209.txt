@@ -1,0 +1,11 @@
+Altium Limited
+
+
+EPCOS
+Batch Number 020209
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+EPCOS Inductor.IntLib
+Log_020209.txt

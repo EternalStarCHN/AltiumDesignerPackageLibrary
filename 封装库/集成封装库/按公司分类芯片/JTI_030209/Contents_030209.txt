@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Johanson Technology (JTI)
+Batch Number 030209
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+JTI RF and IF Antenna.IntLib
+Log_030209.txt

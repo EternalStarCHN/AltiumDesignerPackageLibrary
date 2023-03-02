@@ -1,0 +1,11 @@
+Altium Limited
+
+
+KEMET
+Batch Number 350705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+KEMET Chip Capacitor.IntLib
+Log350705.txt

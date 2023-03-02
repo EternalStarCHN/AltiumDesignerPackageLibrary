@@ -1,0 +1,51 @@
+Altium Limited
+
+
+Intersil
+Batch Number 150709
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+29-May-2009
+13-Apr-2006
+06-Jun-2005
+26-May-2004
+17-Sep-2003
+23-Sep-2002
+17-Jul-2002
+10-Jul-2000
+08-Jun-2000
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+29-May-2009
+
+Component         IntLib Name                        Description
+-------------------------------------------------------------------
+1 component       Intersil Amplifier Buffer          Component Body Added.
+2 components      Intersil DSP 8-Bit  				 Component Body Added.
+10 components     Intersil Discrete MOSFET           Component Body Added.
+35 components     Intersil Discrete MOSFET           IPC-7351 Footprint Added.
+RF1S644SM         Intersil Discrete MOSFET 		     Description altered to 'N-Channel'.
+15 components     Intersil Operational Amplifier     Component Body Added.
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

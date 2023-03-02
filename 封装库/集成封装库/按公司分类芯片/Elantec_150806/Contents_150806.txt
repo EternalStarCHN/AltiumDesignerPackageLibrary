@@ -1,0 +1,24 @@
+Altium Limited
+
+
+Elantec
+Batch Number 150806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Elantec Operational Amplifier.IntLib
+Elantec Interface PIN Driver.IntLib
+Elantec Interface Line Transceiver.IntLib
+Elantec Amplifier Buffer.IntLib
+Elantec Analog Comparator.IntLib
+Elantec Interface Servo Motor Controller.IntLib
+Elantec Analog Multiplier Divider.IntLib
+Elantec Video Amplifier.IntLib
+Elantec Video Gain Control Circuit.IntLib
+Elantec Video Sync Circuit.IntLib
+Elantec Video Generator Circuit.IntLib
+Elantec Interface MOSFET Driver.IntLib
+Elantec Interface Line Driver.IntLib
+Elantec Interface CCD Driver.IntLib
+Log_150806.txt

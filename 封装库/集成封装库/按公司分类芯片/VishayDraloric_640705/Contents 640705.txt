@@ -1,0 +1,12 @@
+Altium Limited
+
+
+Vishay Draloric
+Batch Number 640705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Vishay Draloric Ceramic Tubular Capacitor.IntLib
+Vishay Draloric Ceramic Disc Capacitor.IntLib
+Log640705.txt

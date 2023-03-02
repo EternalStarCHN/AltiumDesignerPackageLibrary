@@ -1,0 +1,12 @@
+Altium Limited
+
+
+Vishay Tansitor
+Batch Number 700705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Vishay Tansitor Tantalum Axial-Lead Capacitor.IntLib
+Vishay Tansitor Tantalum Radial-Lead Capacitor.IntLib
+Log700705.txt

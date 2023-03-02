@@ -1,0 +1,42 @@
+Altium Limited
+
+
+Microchip
+Batch Number 200709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Microchip DSC 16-Bit dsPIC30F.IntLib
+Microchip DSC 16-Bit dsPIC33F.IntLib
+Microchip Interface.IntLib
+Microchip Linear Devices.IntLib
+Microchip EEPROM I2C Serial.IntLib
+Microchip EEPROM Microwire Serial.IntLib
+Microchip EEPROM SPI Serial.IntLib
+Microchip EEPROM UIO Serial.IntLib
+Microchip Microcontroller 8-Bit PIC10.IntLib
+Microchip Microcontroller 8-Bit PIC12.IntLib
+Microchip Microcontroller 8-Bit PIC14.IntLib
+Microchip Microcontroller 8-Bit PIC16.IntLib
+Microchip Microcontroller 8-Bit PIC18.IntLib
+Microchip Microcontroller 16-Bit PIC24F.IntLib
+Microchip Microcontroller 16-Bit PIC24H.IntLib
+Microchip Microcontroller 32-Bit PIC32.IntLib
+Microchip Mixed Signal.IntLib
+Microchip Power Mgt Battery Management.IntLib
+Microchip Power Mgt Voltage Detector.IntLib
+Microchip Power Mgt Charge Pump.IntLib
+Microchip Power Mgt PWM Controller.IntLib
+Microchip Power Mgt Votage Reference.IntLib
+Microchip Power Mgt Hot Swap.IntLib
+Microchip Power Mgt Line Regulator.IntLib
+Microchip Power Mgt MOSFET Driver.IntLib
+Microchip Power Mgt CPU-System Supervisor.IntLib
+Microchip Power Mgt Switching Regulator.IntLib
+Microchip Thermal Management.IntLib
+Microchip KEELOQ Decoder.IntLib
+Microchip KEELOQ Encoder.IntLib
+Microchip KEELOQ Transcoder.IntLib
+Microchip Radio Frequency Devices.IntLib
+Log_200709.txt

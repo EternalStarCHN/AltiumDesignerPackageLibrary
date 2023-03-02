@@ -1,0 +1,12 @@
+Altium Limited
+
+
+FTDI
+Batch Number 170806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+FTDI Communication FIFO.IntLib
+FTDI Communication UART.IntLib
+Log_170806.txt

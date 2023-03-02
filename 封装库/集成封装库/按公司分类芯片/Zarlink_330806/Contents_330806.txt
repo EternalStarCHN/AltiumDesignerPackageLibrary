@@ -1,0 +1,28 @@
+Altium Limited
+
+
+Zarlink Semiconductor (Formerly Mitel)
+Batch Number 330806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Zarlink Logic Switch.IntLib
+Zarlink Video Switch.IntLib
+Zarlink Comm CODEC.IntLib
+Zarlink Comm CODEC Filter.IntLib
+Zarlink Comm Communication Interface.IntLib
+Zarlink Comm Data Access Arrangement.IntLib
+Zarlink Comm DTMF Receiver.IntLib
+Zarlink Comm Framer Circuit.IntLib
+Zarlink Comm ISDN Circuit.IntLib
+Zarlink Comm MODEM Circuit.IntLib
+Zarlink Comm Central Office PBX Interface.IntLib
+Zarlink Comm PCM Circuit.IntLib
+Zarlink Comm Telephone Circuit.IntLib
+Zarlink Comm Phase Locked Loop.IntLib
+Zarlink Comm Protocol Controller.IntLib
+Zarlink Comm Subscriber Line Circuit.IntLib
+Zarlink Comm Switching Matrix.IntLib
+Zarlink Peripheral Bus Interface Controller.IntLib
+Log_330806.txt

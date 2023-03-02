@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Harris
+Batch Number 270705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Harris Discrete Voltage-Sensitive Resistor.IntLib
+Log270705.txt

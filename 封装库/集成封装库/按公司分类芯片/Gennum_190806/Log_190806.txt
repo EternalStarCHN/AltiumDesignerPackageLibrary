@@ -1,0 +1,54 @@
+Altium Limited
+
+
+Gennum
+Batch Number 190806
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+13-Apr-2006
+04-Mar-2005
+17-Jul-2002
+08-Jun-2000
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+13-Apr-2006
+
+Component        IntLib Name                          Description
+-----------------------------------------------------------------
+LC552-SOIC       Gennum Audio Amplifier               IPC-7351 Footprint Added.
+3 components     Gennum Converter Digital to Analog   IPC-7351 Footprint Added.
+3 components     Gennum Digital Filter                IPC-7351 Footprint Added.
+GC4130AEKA       Gennum IF Amplifier                  IPC-7351 Footprint Added.
+4 components     Gennum Interface Line Driver         IPC-7351 Footprint Added.
+GC8100CKA        Gennum Operational Amplifier         IPC-7351 Footprint Added.
+2 components     Gennum Power Amplifier               IPC-7351 Footprint Added.
+5 components     Gennum Video Buffer Amplifier        IPC-7351 Footprint Added.
+15 components    Gennum Video Multiplexer             IPC-7351 Footprint Added.
+4 components     Gennum Video Multiplier              IPC-7351 Footprint Added.
+7 components     Gennum Video SMPTE                   IPC-7351 Footprint Added.
+4 components     Gennum Video Switch                  IPC-7351 Footprint Added.
+11 components    Gennum Video Sync Circuit            IPC-7351 Footprint Added.
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

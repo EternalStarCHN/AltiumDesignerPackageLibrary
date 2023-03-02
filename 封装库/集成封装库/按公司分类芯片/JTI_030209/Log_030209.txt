@@ -1,0 +1,39 @@
+Altium Limited
+
+
+Johanson Technology (JTI)
+Batch Number 030209
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+26-Sep-2008
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+26-Sep-2008
+
+Component               IntLib Name                                                 Description
+-----------------------------------------------------------------------------------------------
+2450AD46A5400E          JTI RF and IF Antenna                                       Component Added
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

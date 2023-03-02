@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Susumu (SSM)
+Batch Number 080209
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+SSM Inductor.IntLib
+Log_080209.txt

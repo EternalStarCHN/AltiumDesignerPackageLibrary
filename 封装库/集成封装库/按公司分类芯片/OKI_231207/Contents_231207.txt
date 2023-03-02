@@ -1,0 +1,11 @@
+Altium Limited
+
+
+OKI
+Batch Number 231207
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+OKI Microcontroller 32-Bit ARM.IntLib
+Log_231207.txt

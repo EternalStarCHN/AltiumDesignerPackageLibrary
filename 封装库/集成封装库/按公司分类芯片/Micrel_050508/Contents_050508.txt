@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Micrel
+Batch Number 050508
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Micrel Power Mgt Switching Circuit.IntLib
+Log_050508.txt

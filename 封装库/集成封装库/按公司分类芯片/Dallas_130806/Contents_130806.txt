@@ -1,0 +1,43 @@
+Altium Limited
+
+
+Dallas
+Batch Number 130806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Dallas Communication ADPCM Processor.IntLib
+Dallas Communication CEPT T1 Interface.IntLib
+Dallas Communication Error Detection Cct.IntLib
+Dallas Communication PCM Circuit.IntLib
+Dallas Communication Transceiver.IntLib
+Dallas Converter Parallel to Serial.IntLib
+Dallas Interface Digital Potentiometer.IntLib
+Dallas Interface Terminator.IntLib
+Dallas Logic Delay Line.IntLib
+Dallas Microcontroller 8-Bit.IntLib
+Dallas Memory Asynchronous FIFO.IntLib
+Dallas Memory EEPROM.IntLib
+Dallas Memory Electronic Key.IntLib
+Dallas Memory EPROM.IntLib
+Dallas Memory ID Chip.IntLib
+Dallas Memory Non-Volatile RAM.IntLib
+Dallas Memory Serial RAM.IntLib
+Dallas Memory Static RAM.IntLib
+Dallas Power Mgt Battery.IntLib
+Dallas Power Mgt Kickstarter.IntLib
+Dallas Power Mgt Supervisory Circuit.IntLib
+Dallas Power Mgt Switching Circuit.IntLib
+Dallas Power Mgt Voltage Detector.IntLib
+Dallas Peripheral Addressable Switch.IntLib
+Dallas Peripheral Bankswitch.IntLib
+Dallas Peripheral Lock Circuit.IntLib
+Dallas Peripheral Memory Controller.IntLib
+Dallas Peripheral Peripheral Interface.IntLib
+Dallas Peripheral Pulse Generator.IntLib
+Dallas Peripheral Programmable Switch.IntLib
+Dallas Peripheral Real Time Clock.IntLib
+Dallas Peripheral Speech Processor.IntLib
+Dallas Sensor Temperature Sensor.IntLib
+Log_130806.txt

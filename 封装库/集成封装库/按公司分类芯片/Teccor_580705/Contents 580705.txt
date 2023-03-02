@@ -1,0 +1,12 @@
+Altium Limited
+
+
+Teccor
+Batch Number 580705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Teccor Discrete SCR.IntLib
+Teccor Discrete TRIAC.IntLib
+Log580705.txt

@@ -1,0 +1,11 @@
+Altium Limited
+
+
+OMRON
+Batch Number 070508
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+OMRON Switch DIP.IntLib
+Log_070508.txt

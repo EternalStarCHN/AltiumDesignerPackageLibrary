@@ -1,0 +1,37 @@
+Altium Limited
+
+
+Infineon Technologies
+Batch Number 340805
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+18-Aug-2005
+19-Mar-2004
+21-Mar-2003
+08-Jun-2000
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+18-Aug-2005 URL to manufacturer datasheets added.
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

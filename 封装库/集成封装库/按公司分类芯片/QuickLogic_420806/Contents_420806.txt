@@ -1,0 +1,13 @@
+Altium Limited
+
+
+QuickLogic
+Batch Number 420806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+QuickLogic pASIC 1.IntLib
+QuickLogic pASIC 2.IntLib
+QuickLogic pASIC 3.IntLib
+Log_420806.txt

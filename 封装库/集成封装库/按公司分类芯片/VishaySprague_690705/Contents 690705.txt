@@ -1,0 +1,14 @@
+Altium Limited
+
+
+Vishay Sprague
+Batch Number 690705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Vishay Sprague Tantalum Axial-Lead Capacitor.IntLib
+Vishay Sprague Tantalum Radial-Lead Capacitor.IntLib
+Vishay Sprague Tantalum Triple-Lead Capacitor.IntLib
+Vishay Sprague Tantalum Chip Capacitor.IntLib
+Log690705.txt

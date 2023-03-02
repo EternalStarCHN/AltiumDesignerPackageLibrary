@@ -1,0 +1,24 @@
+Altium Limited
+
+
+National Semiconductor
+Batch Number NSC - Release 1.10 - 280109
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+NSC ADC.IntLib
+NSC Amplifier.IntLib
+NSC Analog.IntLib
+NSC Audio.IntLib
+NSC Comparator.IntLib
+NSC DAC.IntLib
+NSC Interface.IntLib
+NSC LDO.IntLib
+NSC MiscPower.IntLib
+NSC OtherParts.IntLib
+NSC Switch Caps.IntLib
+NSC Switcher.IntLib
+NSC Temperature Sensor.IntLib
+NSC Voltage Reference.IntLib
+Log_NSC - Release 1.10 -280109.txt

@@ -1,0 +1,19 @@
+Altium Limited
+
+
+Linear Technology
+Batch Number 180709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+LT Converter Current to Voltage.IntLib
+LT Peripheral Switch Controller.IntLib
+LT Power Mgt Battery Charger.IntLib
+LT Power Mgt DC-DC Converter.IntLib
+LT Power Mgt Switching Regulator.IntLib
+LT Power Mgt Voltage Regulator.IntLib
+LT Amplifier Buffer.IntLib
+LT Video Amplifier.IntLib
+LT Operational Amplifier.IntLib
+Log_180709.txt

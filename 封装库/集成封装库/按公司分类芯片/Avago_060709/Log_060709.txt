@@ -1,0 +1,57 @@
+Altium Limited
+
+
+Avago Technologies (formerly Agilent)
+Batch Number 060709
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+27-Jun-2008
+02-Mar-2006
+11-Oct-2004
+26-May-2004
+19-Mar-2004
+11-Dec-2002
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+27-Jun-2008
+
+Component          IntLib Name                       Description
+----------------------------------------------------------------
+6 components       Avago Optoelectronic LED          Polarity swapped to match Anode Mark.
+
+Large center hole unplated for affected PCB footprints in: 'Avago Optoelectronic LED.IntLib'
+
+
+Components moved
+~~~~~~~~~~~~~~~~
+Incorrectly located 2-Digit LED components moved from:
+'Avago LED Display 7-Segment, 1-Digit.IntLib'
+to: 'Avago LED Display 7-Segment, 2-Digit.IntLib'
+
+
+Vendor Name Change
+~~~~~~~~~~~~~~~~~~
+Manufacturer prefix of library names changed from 'Agilent' to 'Avago'.
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

@@ -1,0 +1,18 @@
+Altium Limited
+
+
+Avago Technologies
+Batch Number 060709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Avago LED Display 7-Segment, 1-Digit.IntLib
+Avago LED Display Overflow.IntLib
+Avago LED Display Digit & Word Icon.IntLib
+Avago LED Display 7-Segment, 4-Digit.IntLib
+Avago LED Display 7-Segment, 2-Digit.IntLib
+Avago LED Display 7-Segment, 3-Digit.IntLib
+Avago LED Display Alphanumeric.IntLib
+Avago Optoelectronic LED.IntLib
+Log_060709.txt

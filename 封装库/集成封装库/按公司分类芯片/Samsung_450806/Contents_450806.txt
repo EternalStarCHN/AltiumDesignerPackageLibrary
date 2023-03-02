@@ -1,0 +1,12 @@
+Altium Limited
+
+
+Samsung
+Batch Number 450806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Samsung Memory Dynamic RAM.IntLib
+Samsung Microprocessor 32-Bit.IntLib
+Log_450806.txt

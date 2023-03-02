@@ -1,0 +1,43 @@
+Altium Limited
+
+
+FTDI
+Batch Number 170806
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+13-Apr-2006
+02-Mar-2006
+06-Oct-2005
+06-Jun-2005
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+13-Apr-2006
+
+Component            IntLib Name                  Description
+-------------------------------------------------------------
+3 components         FTDI Communication FIFO      IPC-7351 Footprint Added.
+5 components         FTDI Communication UART      IPC-7351 Footprint Added.
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

@@ -1,0 +1,53 @@
+Altium Limited
+
+
+HARTING
+Batch Number 210806
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+06-Oct-2005
+15-Nov-2004
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+06-Oct-2005
+
+Component       IntLib Name                         Description
+---------------------------------------------------------------
+21 components   HARTING DIN 41612 Type 2B           Component Added
+29 components   HARTING DIN 41612 Type 2C           Component Added
+21 components   HARTING DIN 41612 Type 2Q           Component Added
+40 components   HARTING DIN 41612 Type 2R           Component Added
+28 components   HARTING DIN 41612 Type B            Component Added
+90 components   HARTING DIN 41612 Type C            Component Added
+3 components    HARTING DIN 41612 Type E            Component Added
+18 components   HARTING DIN 41612 Type F            Component Added
+12 components   HARTING DIN 41612 Type M-Flat       Component Added
+24 components   HARTING DIN 41612 Type M            Component Added
+23 components   HARTING DIN 41612 Type Q            Component Added
+22 components   HARTING DIN 41612 Type R (HE 11)    Component Added
+72 components   HARTING DIN 41612 Type R            Component Added
+3 components    HARTING DIN 41612 Type RM           Component Added
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

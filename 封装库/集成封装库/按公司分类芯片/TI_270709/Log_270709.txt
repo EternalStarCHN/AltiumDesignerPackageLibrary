@@ -1,0 +1,69 @@
+Altium Limited
+
+
+Texas Instruments
+Batch Number 270709
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+29-May-2009
+20-Jul-2007
+30-Mar-2007
+29-Mar-2007
+16-Oct-2006
+13-Apr-2006
+02-Mar-2006
+16-Dec-2005
+06-Oct-2005
+08-Jul-2005
+06-Jun-2005
+04-Mar-2005
+28-Feb-2003
+23-Sep-2002
+17-Jul-2002
+15-May-2002
+15-Apr-2002
+25-Jan-2001
+16-Jan-2001
+12-Jul-2000
+08-Jun-2000
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+29-May-2009
+
+Component          IntLib Name                           Description
+--------------------------------------------------------------------
+CC2520RHDT         TI Communication Transceiver          Component Added.
+13 components      TI Interface Darlington Driver        Component Body Added.
+50 components      TI Interface Display Driver           Component Body Added.
+6 components       TI Interface Display Driver           IPC-7351 Footprint Added.
+71 components      TI Interface Line Driver              Component Body Added.
+24 components      TI Interface Line Driver              IPC-7351 Footprint Added.
+79 components      TI Interface Line Receiver            Component Body Added.
+17 components      TI Interface Line Receiver            IPC-7351 Footprint Added.
+SN75372P           TI Interface MOSFET Driver            Component Body Added.
+36 components      TI Interface Peripheral Driver        Component Body Added.
+8 components       TI Interface Peripheral Driver        IPC-7351 Footprint Added.
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

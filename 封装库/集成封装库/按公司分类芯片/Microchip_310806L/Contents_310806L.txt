@@ -1,0 +1,19 @@
+Altium Limited
+
+
+Microchip
+Batch Number 310806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Microchip Interface Line Transceiver.IntLib
+Microchip Microcontroller 8-Bit PIC12.IntLib
+Microchip Microcontroller 8-Bit PIC14.IntLib
+Microchip Microcontroller 8-Bit PIC16 1.IntLib
+Microchip Microcontroller 8-Bit PIC16 2.IntLib
+Microchip Microcontroller 8-Bit PIC16F.IntLib
+Microchip Microcontroller 8-Bit PIC17.IntLib
+Microchip Microcontroller 8-Bit PIC18.IntLib
+Library Index - Legacy Microchip.xls
+Log_310806L.txt

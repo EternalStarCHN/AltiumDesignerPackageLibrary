@@ -1,0 +1,15 @@
+Altium Limited
+
+
+Vishay Roederstein
+Batch Number 660705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Vishay Roederstein Electrolytic Radial-Lead Capacitor.IntLib
+Vishay Roederstein Electrolytic Axial-Lead Capacitor.IntLib
+Vishay Roederstein Electrolytic Snap-In Pins Capacitor.IntLib
+Vishay Roederstein Electrolytic Solder Ring Capacitor.IntLib
+Vishay Roederstein Tantalum Radial-Lead Capacitor.IntLib
+Log660705.txt

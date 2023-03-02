@@ -1,0 +1,12 @@
+Altium Limited
+
+
+Newport
+Batch Number 370806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Newport Power Mgt DC-DC Converter.IntLib
+Newport Communication Transceiver.IntLib
+Log_370806.txt

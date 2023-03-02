@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Vishay
+Batch Number 620705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Vishay Electrolytic Radial-Lead Capacitor.IntLib
+Log620705.txt

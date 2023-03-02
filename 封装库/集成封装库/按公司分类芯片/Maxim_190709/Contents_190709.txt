@@ -1,0 +1,58 @@
+Altium Limited
+
+
+Maxim
+Batch Number 190709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Maxim Filter Continuous-Time Active.IntLib
+Maxim Filter Lowpass.IntLib
+Maxim Filter Switched Capacitor.IntLib
+Maxim Interface 1-Wire.IntLib
+Maxim Interface Display Driver.IntLib
+Maxim Interface Laser Diode Driver.IntLib
+Maxim Interface Line Driver.IntLib
+Maxim Interface MOSFET Driver.IntLib
+Maxim Logic Multiplexer.IntLib
+Maxim Logic Switch.IntLib
+Maxim Logic Timer.IntLib
+Maxim Multiplexed Video Amplifier.IntLib
+Maxim Operational Amplifier.IntLib
+Maxim Amplifier Buffer.IntLib
+Maxim Analog Comparator.IntLib
+Maxim Audio Pre-Amplifier.IntLib
+Maxim Communication Receiver.IntLib
+Maxim Communication Transceiver.IntLib
+Maxim Converter Analog to Digital.IntLib
+Maxim Converter Data Acquisition System.IntLib
+Maxim Converter Digital to Analog.IntLib
+Maxim Current-Feedback Amplifier.IntLib
+Maxim Peripheral Input Output Port.IntLib
+Maxim Peripheral Memory Controller.IntLib
+Maxim Peripheral Pulse Generator.IntLib
+Maxim Peripheral Real Time Clock.IntLib
+Maxim Peripheral USB Controller.IntLib
+Maxim Power Mgt Battery.IntLib
+Maxim Power Mgt Battery Charger.IntLib
+Maxim Power Mgt Charge Pump.IntLib
+Maxim Power Mgt DC-DC Converter.IntLib
+Maxim Power Mgt Power Controller.IntLib
+Maxim Power Mgt Supervisory Circuit.IntLib
+Maxim Power Mgt Switching Regulator.IntLib
+Maxim Power Mgt Voltage Reference.IntLib
+Maxim Power Mgt Voltage Regulator.IntLib
+Maxim RF Amplifier.IntLib
+Maxim RF Oscillator.IntLib
+Maxim RF and IF Transmitter.IntLib
+Maxim RF Power Amplifier.IntLib
+Maxim Universal Active Filter.IntLib
+Maxim Video Amplifier.IntLib
+Maxim Video Buffer Amplifier.IntLib
+Maxim Video Multiplexer.IntLib
+Maxim Video Switch.IntLib
+Maxim Wideband Amplifier.IntLib
+Maxim Passive Resistor.IntLib
+Maxim Passive Potentiometer.IntLib
+Log_190709.txt

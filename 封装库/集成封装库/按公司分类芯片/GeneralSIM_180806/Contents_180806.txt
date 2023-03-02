@@ -1,0 +1,15 @@
+Altium Limited
+
+
+Simulation
+Batch Number 180806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Simulation Math Function.IntLib
+Simulation Transmission Line.IntLib
+Simulation Sources.IntLib
+Simulation Special Function.IntLib
+Simulation Pspice Functions.IntLib
+Log_180806.txt

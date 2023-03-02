@@ -1,0 +1,50 @@
+Altium Limited
+
+
+ON Semiconductor
+Batch Number 240709
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+27-Jun-2008
+12-Dec-2006
+13-Apr-2006
+16-Dec-2005
+04-Mar-2005
+19-Mar-2004
+17-Sep-2003
+21-Mar-2003
+28-Feb-2003
+31-Oct-2002
+15-Apr-2002
+15-July-200
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+27-Jun-2008
+
+Component        IntLib Name               Description
+------------------------------------------------------
+4 components     ON Semi Logic Latch       Swapped schematic pins 7 & 8.
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

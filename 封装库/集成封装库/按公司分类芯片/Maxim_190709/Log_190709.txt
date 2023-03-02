@@ -1,0 +1,119 @@
+Altium Limited
+
+
+Maxim
+Batch Number 190709
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+29-May-2009
+30-May-2008
+21-Sep-2007
+13-Apr-2006
+02-Mar-2006
+11-Oct-2004
+23-Sep-2002
+17-Jul-2002
+16-Jan-2001
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+29-May-2009
+30-May-2008
+
+Component          IntLib Name                                   Description
+----------------------------------------------------------------------------
+2 components       Maxim Audio Pre-Amplifier                     Component Added.
+1 component        Maxim Communication Transceiver               Component Added.
+1 component        Maxim Operational Amplifier                   Component Added.
+3 components       Maxim Passive Potentiometer                   Component Added.
+1 component        Maxim Passive Resistor                        Component Added.
+2 components       Maxim Peripheral Input Output Port            Component Added.
+1 component        Maxim Peripheral Real Time Clock              Component Added.
+1 component        Maxim Peripheral USB Controller               Component Added.
+1 component        Maxim Power Mgt Battery Charger               Component Added.
+2 components       Maxim Power Mgt DC-DC Converter               Component Added.
+1 component        Maxim Power Mgt Power Controller              Component Added.
+1 component        Maxim Power Mgt Voltage Regulator             Component Added.
+4 components       Maxim Amplifier Buffer                        Component Body Added.
+9 components       Maxim Amplifier Buffer                        IPC-7351 Footprint Added.
+92 components      Maxim Analog Comparator                       Component Body Added.
+30 components      Maxim Analog Comparator                       IPC-7351 Footprint Added.
+4 components       Maxim Communication Receiver                  Component Body Added.
+6 components       Maxim Communication Receiver                  IPC-7351 Footprint Added.
+128 components     Maxim Communication Transceiver               Component Body Added.
+60 components      Maxim Communication Transceiver               IPC-7351 Footprint Added.
+49 components      Maxim Converter Analog to Digital             Component Body Added.
+10 components      Maxim Converter Analog to Digital             IPC-7351 Footprint Added.
+6 components       Maxim Converter Data Acquisition System       Component Body Added.
+4 components       Maxim Converter Data Acquisition System       IPC-7351 Footprint Added.
+22 components      Maxim Converter Digital to Analog             Component Body Added.
+12 components      Maxim Converter Digital to Analog             IPC-7351 Footprint Added.
+13 components      Maxim Current-Feedback Amplifier              IPC-7351 Footprint Added.
+12 components      Maxim Filter Continuous-Time Active           Component Body Added.
+6 components       Maxim Filter Lowpass                          Component Body Added.
+33 components      Maxim Filter Switched Capacitor               Component Body Added.
+8 components       Maxim Filter Switched Capacitor               IPC-7351 Footprint Added.
+14 components      Maxim Interface Display Driver                Component Body Added.
+2 components       Maxim Interface Line Driver                   Component Body Added.
+3 components       Maxim Interface Line Driver                   IPC-7351 Footprint Added.
+12 components      Maxim Interface MOSFET Driver                 Component Body Added.
+122 components     Maxim Logic Multiplexer                       Component Body Added.
+2 components       Maxim Logic Multiplexer                       IPC-7351 Footprint Added.
+181 components     Maxim Logic Switch                            Component Body Added.
+9 components       Maxim Logic Switch                            IPC-7351 Footprint Added.
+2 components       Maxim Logic Timer                             Component Body Added.
+2 components       Maxim Multiplexed Video Amplifier             IPC-7351 Footprint Added.
+102 components     Maxim Operational Amplifier                   Component Body Added.
+50 components      Maxim Operational Amplifier                   IPC-7351 Footprint Added.
+6 components       Maxim Passive Potentiometer                   IPC-7351 Footprint Added.
+3 components       Maxim Peripheral Memory Controller            Component Body Added.
+2 components       Maxim Peripheral Pulse Generator              Component Body Added.
+1 component        Maxim Power Mgt Battery Charger               IPC-7351 Footprint Added.
+6 components       Maxim Power Mgt Battery                       Component Body Added.
+2 components       Maxim Power Mgt Charge Pump                   IPC-7351 Footprint Added.
+33 components      Maxim Power Mgt DC-DC Converter               Component Body Added.
+4 components       Maxim Power Mgt DC-DC Converter               IPC-7351 Footprint Added.
+54 components      Maxim Power Mgt Supervisory Circuit           Component Body Added.
+662 components     Maxim Power Mgt Supervisory Circuit           IPC-7351 Footprint Added.
+17 components      Maxim Power Mgt Switching Regulator           Component Body Added.
+1 component        Maxim Power Mgt Switching Regulator           IPC-7351 Footprint Added.
+9 components       Maxim Power Mgt Voltage Reference             Component Body Added.
+1 component        Maxim Power Mgt Voltage Reference             IPC-7351 Footprint Added.
+8 components       Maxim Power Mgt Voltage Regulator             Component Body Added.
+1 component        Maxim RF Amplifier                            IPC-7351 Footprint Added.
+1 component        Maxim RF Oscillator                           IPC-7351 Footprint Added.
+1 component        Maxim RF Power Amplifier                      IPC-7351 Footprint Added.
+1 component        Maxim RF and IF Transmitter                   IPC-7351 Footprint Added.
+18 components      Maxim Universal Active Filter                 Component Body Added.
+16 components      Maxim Video Amplifier                         Component Body Added.
+2 components       Maxim Video Amplifier                         IPC-7351 Footprint Added.
+4 components       Maxim Video Buffer Amplifier                  Component Body Added.
+21 components      Maxim Video Switch                            Component Body Added.
+1 component        Maxim Video Switch                            IPC-7351 Footprint Added.
+6 components       Maxim Wideband Amplifier                      Component Body Added.
+
+Incorrectly located MAX4147ESA moved from:
+'Maxim Operational Amplifier.IntLib'
+to: 'Maxim Interface Line Driver.IntLib'
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

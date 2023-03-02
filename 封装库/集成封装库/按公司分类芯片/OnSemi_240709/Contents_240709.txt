@@ -1,0 +1,59 @@
+Altium Limited
+
+
+ON Semiconductor
+Batch Number 240709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+ON Semi Logic Buffer Line Driver.IntLib
+ON Semi Interface Line Receiver.IntLib
+ON Semi Logic Flip-Flop.IntLib
+ON Semi Logic Arithmetic.IntLib
+ON Semi Logic Counter.IntLib
+ON Semi Logic Decoder Demux.IntLib
+ON Semi Logic Comparator.IntLib
+ON Semi Logic Delay Line.IntLib
+ON Semi Interface Line Transceiver.IntLib
+ON Semi Converter Serial to Parallel.IntLib
+ON Semi Logic Clock Clock Support.IntLib
+ON Semi Wideband Amplifier.IntLib
+ON Semi Interface LED Driver.IntLib
+ON Semi Comm Phase Locked Loop.IntLib
+ON Semi Interface Darlington Driver.IntLib
+ON Semi Interface Display Driver.IntLib
+ON Semi Power Amplifier.IntLib
+ON Semi Comm MODEM Circuit.IntLib
+ON Semi Interface Line Driver.IntLib
+ON Semi Comm Switching Matrix.IntLib
+ON Semi Operational Amplifier.IntLib
+ON Semi Differential Amplifier.IntLib
+ON Semi Analog Comparator.IntLib
+ON Semi Logic Gate.IntLib
+ON Semi Peripheral Clock Generator.IntLib
+ON Semi Logic Register.IntLib
+ON Semi Logic Latch.IntLib
+ON Semi Logic Multiplexer.IntLib
+ON Semi Logic Parity Gen Check Detect.IntLib
+ON Semi Voltage Controlled Oscillator.IntLib
+ON Semi Logic Translator.IntLib
+ON Semi Logic Multivibrator.IntLib
+ON Semi Peripheral HD Data Sep-Sync.IntLib
+ON Semi Logic Multifunction.IntLib
+ON Semi Peripheral Peripheral Interface.IntLib
+ON Semi Logic Timer.IntLib
+ON Semi RF and IF Modulator-Demodulator.IntLib
+ON Semi Logic Switch.IntLib
+ON Semi Power Mgt Voltage Regulator.IntLib
+ON Semi Power Mgt Voltage Reference.IntLib
+ON Semi Power Mgt Charge Pump.IntLib
+ON Semi Power Mgt DC-DC Converter.IntLib
+ON Semi Power Mgt Voltage Detector.IntLib
+ON Semi Power Mgt Supervisory Cct.IntLib
+ON Semi Power Mgt Switching Regulator.IntLib
+ON Semi Power Mgt Power Controller.IntLib
+ON Semi Power Mgt Battery Charger.IntLib
+ON Semi Power Mgt Battery.IntLib
+ON Semi Power Mgt SMPS Controller.IntLib
+Log_240709.txt

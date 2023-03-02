@@ -1,0 +1,13 @@
+Altium Limited
+
+
+Zetex
+Batch Number 580806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Zetex Discrete Diode.IntLib
+Zetex Discrete BJT.IntLib
+Zetex Discrete MOSFET.IntLib
+Log_580806.txt

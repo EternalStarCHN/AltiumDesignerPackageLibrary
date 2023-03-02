@@ -1,0 +1,109 @@
+Altium Limited
+
+
+Motorola
+Batch Number 350806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Motorola Microcontroller 16-Bit.IntLib
+Motorola Microcontroller 32-Bit.IntLib
+Motorola Microcontroller 8-Bit.IntLib
+Motorola Amplifier Audio Amplifier.IntLib
+Motorola Microwave Amplifier.IntLib
+Motorola Amplifier Operational Amplifier.IntLib
+Motorola RF Amplifier.IntLib
+Motorola RF Power Amplifier.IntLib
+Motorola Amplifier Video Amplifier.IntLib
+Motorola Wideband Amplifier.IntLib
+Motorola Analog Comparator.IntLib
+Motorola Analog Multiplier Divider.IntLib
+Motorola Analog Timer Circuit.IntLib
+Motorola Audio Tone Vol Bal Control.IntLib
+Motorola Audio TV Stereo Decoder.IntLib
+Motorola Automotive Direction Indicator.IntLib
+Motorola Automotive Ignition Circuit.IntLib
+Motorola Automotive Injection Driver.IntLib
+Motorola Automotive Voltage Regulator.IntLib
+Motorola Communication Communication Interface.IntLib
+Motorola Communication Receiver.IntLib
+Motorola Communication Telephone Circuit.IntLib
+Motorola Communication Transmitter.IntLib
+Motorola Converter Analog to Digital.IntLib
+Motorola Converter Digital to Analog.IntLib
+Motorola Converter Temperature to Voltage.IntLib
+Motorola Interface AC Motor Controller.IntLib
+Motorola Interface Bridge Driver.IntLib
+Motorola Interface Darlington Driver.IntLib
+Motorola Interface DC Motor Controller.IntLib
+Motorola Interface Display Driver.IntLib
+Motorola Interface Line Driver.IntLib
+Motorola Interface Line Receiver.IntLib
+Motorola Interface Line Transceiver.IntLib
+Motorola Interface MOSFET Driver.IntLib
+Motorola Interface Peripheral Driver.IntLib
+Motorola Interface Servo Motor Controller.IntLib
+Motorola Interface Stepper Motor Controller.IntLib
+Motorola Interface Terminator.IntLib
+Motorola Interface Transistor Driver.IntLib
+Motorola Power Mgt Voltage Regulator.IntLib
+Motorola Power Mgt Voltage Reference.IntLib
+Motorola Sensor Temperature Sensor.IntLib
+Motorola Power Mgt Switching Regulator.IntLib
+Motorola Peripheral HD Data Sep Sync.IntLib
+Motorola Voltage Controlled Oscillator.IntLib
+Motorola RF and IF Frequency Synthesiser.IntLib
+Motorola Video TV Interface Circuit.IntLib
+Motorola Video Signal Processor.IntLib
+Motorola RF and IF Front End.IntLib
+Motorola RF and IF Radio Receiver Circuit.IntLib
+Motorola RF and IF Modulator Demodulator.IntLib
+Motorola RF and IF Mixer.IntLib
+Motorola Video Horz Processor Deflector.IntLib
+Motorola Microprocessor 8-Bit.IntLib
+Motorola Peripheral Real Time Clock.IntLib
+Motorola Peripheral Bus Interface Controller.IntLib
+Motorola RF and IF Transmitter.IntLib
+Motorola Power Mgt SMPS Controller.IntLib
+Motorola Power Mgt DC-DC Converter.IntLib
+Motorola Power Mgt Voltage Detector.IntLib
+Motorola Power Mgt Supervisory Circuit.IntLib
+Motorola Remote Control Receiver.IntLib
+Motorola Power Mgt Switching Circuit.IntLib
+Motorola Peripheral Floppy Disk Controller.IntLib
+Motorola Microprocessor 16-Bit.IntLib
+Motorola Microprocessor 32-Bit.IntLib
+Motorola Peripheral IO Port.IntLib
+Motorola Peripheral DMA Controller.IntLib
+Motorola Peripheral Clock Generator.IntLib
+Motorola Peripheral Multifunction Controller.IntLib
+Motorola Memory Static RAM.IntLib
+Motorola Memory Serial PROM.IntLib
+Motorola Video Sound Circuit.IntLib
+Motorola Video Colour Decoder Circuit.IntLib
+Motorola Discrete Diode.IntLib
+Motorola Discrete BJT.IntLib
+Motorola Discrete SCR.IntLib
+Motorola Discrete IGBT.IntLib
+Motorola Discrete MOSFET.IntLib
+Motorola Discrete JFET.IntLib
+Motorola Discrete TRIAC.IntLib
+Motorola DSP 16-Bit.IntLib
+Motorola DSP 24-Bit.IntLib
+Motorola Logic Buffer Line Driver.IntLib
+Motorola Logic Parity Gen Check Detect.IntLib
+Motorola Logic Gate.IntLib
+Motorola Logic Register.IntLib
+Motorola Logic Arithmetic.IntLib
+Motorola Logic Switch.IntLib
+Motorola Logic Counter.IntLib
+Motorola Logic Latch.IntLib
+Motorola Logic Multiplexer.IntLib
+Motorola Logic Flip-Flop.IntLib
+Motorola Logic Decoder Demux.IntLib
+Motorola Logic Timer.IntLib
+Motorola Logic Comparator.IntLib
+Motorola Logic Multivibrator.IntLib
+Motorola PLD Programmable Array Data.IntLib
+Log_350806.txt

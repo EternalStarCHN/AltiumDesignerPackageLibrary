@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Bitwise Systems
+Batch Number 070709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Bitwise USB Module.IntLib
+Log_070709.txt

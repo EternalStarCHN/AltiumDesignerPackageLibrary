@@ -1,0 +1,12 @@
+Altium Limited
+
+
+Infineon
+Batch Number 340805
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Infineon Discrete BJT.IntLib
+Infineon Discrete Diode.IntLib
+Log_340805.txt

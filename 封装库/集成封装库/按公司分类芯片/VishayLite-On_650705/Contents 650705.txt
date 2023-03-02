@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Vishay Lite-On
+Batch Number 650705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Vishay Lite-On Discrete Diode.IntLib
+Log650705.txt

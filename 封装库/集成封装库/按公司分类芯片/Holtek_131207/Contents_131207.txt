@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Holtek
+Batch Number 131207
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Holtek Power Mgt Voltage Regulator.IntLib
+Log_131207.txt

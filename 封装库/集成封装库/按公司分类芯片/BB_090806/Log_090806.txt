@@ -1,0 +1,68 @@
+Altium Limited
+
+
+Burr-Brown
+Batch Number 090806
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+13-Apr-2006
+06-Jun-2005
+28-Feb-2003
+17-Jul-2002
+15-Apr-2002
+10-Jul-2000
+08-Jun-2000
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+13-Apr-2006
+
+Component               IntLib Name                    Description
+------------------------------------------------------------------
+3 components    BB Amplifier Buffer                        IPC-7351 Footprint Added.
+CMP100AU        BB Analog Comparator                       IPC-7351 Footprint Added.
+REF200AU        BB Analog Current Mirror                   IPC-7351 Footprint Added.
+ACF2101BU       BB Analog Integrator                       IPC-7351 Footprint Added.
+MPY634KU        BB Analog Multiplier Divider               IPC-7351 Footprint Added.
+64 components   BB Converter Analog to Digital             IPC-7351 Footprint Added.
+ADS7833N        BB Converter Data Acquisition System       IPC-7351 Footprint Added.
+68 components   BB Converter Digital to Analog             IPC-7351 Footprint Added.
+3 components    BB Converter Voltage to Current            IPC-7351 Footprint Added.
+3 components    BB Converter Voltage to Frequency          IPC-7351 Footprint Added.
+3 components    BB Differential Amplifier                  IPC-7351 Footprint Added.
+DF1750U         BB Digital Filter                          IPC-7351 Footprint Added.
+36 components   BB Instrumentation Amplifier               IPC-7351 Footprint Added.
+5 components    BB Interface Carrier Multi-wire Interface  IPC-7351 Footprint Added.
+2 components    BB Isolation Amplifier                     IPC-7351 Footprint Added.
+46 components   BB Operational Amplifier                   IPC-7351 Footprint Added.
+PWS750-1U       BB Power Mgt DC-DC Converter               IPC-7351 Footprint Added.
+9 components    BB Power Mgt Voltage Reference             IPC-7351 Footprint Added.
+4 components    BB Sample and Hold Amplifier               IPC-7351 Footprint Added.
+OPA660AU        BB Transconductance Amplifier              IPC-7351 Footprint Added.
+UAF42AU         BB Universal Active Filter                 IPC-7351 Footprint Added.
+PGA103U         BB Variable Gain Amplifier                 IPC-7351 Footprint Added.
+7 components    BB Video Multiplexer                       IPC-7351 Footprint Added.
+2 components    BB Voltage Controlled Amplifier            IPC-7351 Footprint Added.
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

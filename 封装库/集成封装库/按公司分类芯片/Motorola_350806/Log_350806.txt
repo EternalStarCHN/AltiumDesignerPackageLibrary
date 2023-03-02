@@ -1,0 +1,121 @@
+Altium Limited
+
+
+Motorola
+Batch Number 350806
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+13-Apr-2006
+18-Aug-2005
+06-Jun-2005
+04-Mar-2005
+19-Mar-2004
+21-Mar-2003
+28-Feb-2003
+17-Jan-2003
+23-Sep-2002
+17-Jul-2002
+29-Sep-2000
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+13-Apr-2006
+
+Component               IntLib Name                                                 Description
+-----------------------------------------------------------------------------------------------
+3 components      Motorola Amplifier Audio Amplifier                IPC-7351 Footprint Added.
+145 components    Motorola Amplifier Operational Amplifier          IPC-7351 Footprint Added.
+NE592D            Motorola Amplifier Video Amplifier                IPC-7351 Footprint Added.
+19 components     Motorola Analog Comparator                        IPC-7351 Footprint Added.
+MC1495D           Motorola Analog Multiplier Divider                IPC-7351 Footprint Added.
+4 components      Motorola Analog Timer Circuit                     IPC-7351 Footprint Added.
+MC13022DW         Motorola Audio TV Stereo Decoder                  IPC-7351 Footprint Added.
+UAA1041D          Motorola Automotive Direction Indicator           IPC-7351 Footprint Added.
+MC1488D           Motorola Communication Communication Interface    IPC-7351 Footprint Added.
+5 components      Motorola Communication Receiver                   IPC-7351 Footprint Added.
+6 components      Motorola Communication Telephone Circuit          IPC-7351 Footprint Added.
+MC145026DW        Motorola Communication Transmitter                IPC-7351 Footprint Added.
+MC10321DW         Motorola Converter Analog to Digital              IPC-7351 Footprint Added.
+2 components      Motorola Converter Digital to Analog              IPC-7351 Footprint Added.
+19 components     Motorola DSP 16-Bit                               IPC-7351 Footprint Added.
+29 components     Motorola DSP 24-Bit                               IPC-7351 Footprint Added.
+6 components      Motorola Discrete BJT                             IPC-7351 Footprint Added.
+2 components      Motorola Discrete Diode                           IPC-7351 Footprint Added.
+16 components     Motorola Discrete MOSFET                          IPC-7351 Footprint Added.
+TDA1085CD         Motorola Interface AC Motor Controller            IPC-7351 Footprint Added.
+MC33157DW         Motorola Interface Bridge Driver                  IPC-7351 Footprint Added.
+5 components      Motorola Interface Display Driver                 IPC-7351 Footprint Added.
+3 components      Motorola Interface Line Driver                    IPC-7351 Footprint Added.
+4 components      Motorola Interface Line Receiver                  IPC-7351 Footprint Added.
+12 components     Motorola Interface Line Transceiver               IPC-7351 Footprint Added.
+7 components      Motorola Interface MOSFET Driver                  IPC-7351 Footprint Added.
+4 components      Motorola Interface Peripheral Driver              IPC-7351 Footprint Added.
+MC33030DW         Motorola Interface Servo Motor Controller         IPC-7351 Footprint Added.
+5 components      Motorola Interface Terminator                     IPC-7351 Footprint Added.
+MC33153D          Motorola Interface Transistor Driver              IPC-7351 Footprint Added.
+8 components      Motorola Logic Arithmetic                         IPC-7351 Footprint Added.
+10 components     Motorola Logic Buffer Line Driver                 IPC-7351 Footprint Added.
+4 components      Motorola Logic Comparator                         IPC-7351 Footprint Added.
+28 components     Motorola Logic Counter                            IPC-7351 Footprint Added.
+12 components     Motorola Logic Decoder Demux                      IPC-7351 Footprint Added.
+18 components     Motorola Logic Flip-Flop                          IPC-7351 Footprint Added.
+32 components     Motorola Logic Gate                               IPC-7351 Footprint Added.
+16 components     Motorola Logic Latch                              IPC-7351 Footprint Added.
+55 components     Motorola Logic Multiplexer                        IPC-7351 Footprint Added.
+4 components      Motorola Logic Parity Gen Check Detect            IPC-7351 Footprint Added.
+22 components     Motorola Logic Register                           IPC-7351 Footprint Added.
+6 components      Motorola Logic Switch                             IPC-7351 Footprint Added.
+3 components      Motorola Logic Timer                              IPC-7351 Footprint Added.
+4 components      Motorola Memory Serial PROM                       IPC-7351 Footprint Added.
+238 components    Motorola Microcontroller 16-Bit                   IPC-7351 Footprint Added.
+243 components    Motorola Microcontroller 32-Bit                   IPC-7351 Footprint Added.
+659 components    Motorola Microcontroller 8-Bit                    IPC-7351 Footprint Added.
+4 components      Motorola Microprocessor 16-Bit                    IPC-7351 Footprint Added.
+MC68020FE         Motorola Microprocessor 32-Bit                    IPC-7351 Footprint Added.
+8 components      Motorola PLD Programmable Array Data              IPC-7351 Footprint Added.
+2 components      Motorola Peripheral Clock Generator               IPC-7351 Footprint Added.
+MC68440FN         Motorola Peripheral DMA Controller                IPC-7351 Footprint Added.
+MC10E197FN        Motorola Peripheral HD Data Sep Sync              IPC-7351 Footprint Added.
+MC68230FN         Motorola Peripheral IO Port                       IPC-7351 Footprint Added.
+MC68901FN         Motorola Peripheral Multifunction Controller      IPC-7351 Footprint Added.
+10 components     Motorola Power Mgt DC-DC Converter                IPC-7351 Footprint Added.
+2 components      Motorola Power Mgt SMPS Controller                IPC-7351 Footprint Added.
+TCF6000D          Motorola Power Mgt Supervisory Circuit            IPC-7351 Footprint Added.
+2 components      Motorola Power Mgt Switching Regulator            IPC-7351 Footprint Added.
+3 components      Motorola Power Mgt Voltage Detector               IPC-7351 Footprint Added.
+5 components      Motorola Power Mgt Voltage Reference              IPC-7351 Footprint Added.
+23 components     Motorola Power Mgt Voltage Regulator              IPC-7351 Footprint Added.
+2 components      Motorola RF Amplifier                             IPC-7351 Footprint Added.
+16 components     Motorola RF and IF Frequency Synthesiser          IPC-7351 Footprint Added.
+MC13023D          Motorola RF and IF Front End                      IPC-7351 Footprint Added.
+MC13143D          Motorola RF and IF Mixer                          IPC-7351 Footprint Added.
+3 components      Motorola RF and IF Modulator Demodulator          IPC-7351 Footprint Added.
+4 components      Motorola RF and IF Radio Receiver Circuit         IPC-7351 Footprint Added.
+2 components      Motorola RF and IF Transmitter                    IPC-7351 Footprint Added.
+MC623DR2          Motorola Sensor Temperature Sensor                IPC-7351 Footprint Added.
+2 components      Motorola Video Colour Decoder Circuit             IPC-7351 Footprint Added.
+3 components      Motorola Video Signal Processor                   IPC-7351 Footprint Added.
+MC12149D          Motorola Voltage Controlled Oscillator            IPC-7351 Footprint Added.
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

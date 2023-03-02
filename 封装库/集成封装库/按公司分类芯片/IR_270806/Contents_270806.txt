@@ -1,0 +1,22 @@
+Altium Limited
+
+
+IR
+Batch Number 270806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+IR Discrete SCR.IntLib
+IR Discrete IGBT.IntLib
+IR Discrete MOSFET - Half Bridge.IntLib
+IR Interface Bridge Driver.IntLib
+IR Interface MOSFET Driver.IntLib
+IR Discrete MOSFET - Power.IntLib
+IR Discrete MOSFET - Low Power.IntLib
+IR Rectifier - Standard Recovery.IntLib
+IR Rectifier - Schottky.IntLib
+IR Rectifier - Ultrafast Recovery.IntLib
+IR Rectifier - Fast Recovery.IntLib
+IR Rectifier - Bridge.IntLib
+Log_270806.txt

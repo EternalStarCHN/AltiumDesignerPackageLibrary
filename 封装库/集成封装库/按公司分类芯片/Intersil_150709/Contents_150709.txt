@@ -1,0 +1,23 @@
+Altium Limited
+
+
+Intersil
+Batch Number 150709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Intersil Amplifier Buffer.IntLib
+Intersil Discrete MOSFET.IntLib
+Intersil DSP 8-Bit.IntLib
+Intersil Operational Amplifier.IntLib
+Intersil RF and IF Demodulator.IntLib
+Intersil RF and IF Modulator.IntLib
+Intersil Discrete BJT.IntLib
+Intersil DSP 10-Bit.IntLib
+Intersil DSP 13-Bit.IntLib
+Intersil DSP 14-Bit.IntLib
+Intersil DSP 16-Bit.IntLib
+Intersil DSP 20-Bit.IntLib
+Intersil DSP 24-Bit.IntLib
+Log_150709.txt

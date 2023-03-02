@@ -1,0 +1,11 @@
+Altium Limited
+
+
+ECS
+Batch Number 220705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+ECS Crystal Oscillator.IntLib
+Log220705.txt

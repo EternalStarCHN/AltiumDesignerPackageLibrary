@@ -1,0 +1,13 @@
+Altium Limited
+
+
+Panasonic
+Batch Number 250709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Panasonic Microcontroller 32-Bit ARM.IntLib
+Panasonic Battery.IntLib
+Panasonic Resistor.IntLib
+Log_250709.txt

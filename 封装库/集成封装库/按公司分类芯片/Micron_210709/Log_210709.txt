@@ -1,0 +1,42 @@
+Altium Limited
+
+
+Micron Technology
+Batch Number 210709
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+27-Jun-2008
+13-Apr-2006
+11-Oct-2004
+30-Oct-2002
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+27-Jun-2008
+
+Component        IntLib Name                        Description
+---------------------------------------------------------------
+6 components     Micron Memory Dynamic RAM          PCB Pad Size increased from 0.27mm.
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

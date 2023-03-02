@@ -1,0 +1,43 @@
+Altium Limited
+
+
+BB
+Batch Number 090806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+BB Amplifier Buffer.IntLib
+BB Analog Integrator.IntLib
+BB Differential Amplifier.IntLib
+BB Instrumentation Amplifier.IntLib
+BB Isolation Amplifier.IntLib
+BB Logarithmic Amplifier.IntLib
+BB Operational Amplifier.IntLib
+BB Transconductance Amplifier.IntLib
+BB Universal Active Filter.IntLib
+BB Voltage Controlled Amplifier.IntLib
+BB Video Multiplexer.IntLib
+BB Power Mgt DC-DC Converter.IntLib
+BB Analog Multiplier Divider.IntLib
+BB Converter RMS to DC.IntLib
+BB Voltage Controlled Oscillator.IntLib
+BB Sensor Peak Detector.IntLib
+BB Converter Analog to Digital.IntLib
+BB Converter Data Acquisition System.IntLib
+BB Communication xDSL Interface.IntLib
+BB Converter Voltage to Current.IntLib
+BB Analog Comparator.IntLib
+BB Converter Digital to Analog.IntLib
+BB Digital Filter.IntLib
+BB Variable Gain Amplifier.IntLib
+BB Communication Transceiver.IntLib
+BB Interface Carrier Multi-wire Interface.IntLib
+BB Interface Current Loop Receiver.IntLib
+BB Power Mgt Voltage Reference.IntLib
+BB Analog Current Mirror.IntLib
+BB Power Mgt Voltage Regulator.IntLib
+BB Sample and Hold Amplifier.IntLib
+BB Converter Voltage to Frequency.IntLib
+BB Interface Bridge Driver.IntLib
+Log_090806.txt

@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Spansion
+Batch Number 470806
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Spansion Memory Flash.IntLib
+Log_470806.txt

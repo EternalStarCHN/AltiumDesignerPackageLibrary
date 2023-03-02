@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Telit
+Batch Number 120508
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Telit GSM GPRS.IntLib
+Log_120508.txt

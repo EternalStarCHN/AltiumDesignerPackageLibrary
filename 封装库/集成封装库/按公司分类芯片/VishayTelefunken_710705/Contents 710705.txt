@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Vishay Telefunken
+Batch Number 710705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Vishay Telefunken Discrete Diode.IntLib
+Log710705.txt

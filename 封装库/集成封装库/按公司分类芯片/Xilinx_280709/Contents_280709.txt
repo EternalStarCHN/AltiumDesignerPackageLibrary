@@ -1,0 +1,48 @@
+Altium Limited
+
+
+Xilinx
+Batch Number 280709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Xilinx Spartan.IntLib
+Xilinx Spartan XL.IntLib
+Xilinx Spartan-3.IntLib
+Xilinx Spartan-3L.IntLib
+Xilinx Spartan-3A.IntLib
+Xilinx Spartan-3A DSP.IntLib
+Xilinx Spartan-3AN.IntLib
+Xilinx Spartan-3E.IntLib
+Xilinx Spartan-II.IntLib
+Xilinx Spartan-IIE.IntLib
+Xilinx Virtex.IntLib
+Xilinx Virtex-4.IntLib
+Xilinx Virtex-5.IntLib
+Xilinx Virtex-E.IntLib
+Xilinx Virtex-II.IntLib
+Xilinx Virtex-II Pro.IntLib
+Xilinx Virtex-II Pro X.IntLib
+Xilinx XC3000.IntLib
+Xilinx XC4000.IntLib
+Xilinx XC2000.IntLib
+Xilinx XC4000 E.IntLib
+Xilinx XC4000 EX.IntLib
+Xilinx XC4000 XL.IntLib
+Xilinx XC4000 XLA.IntLib
+Xilinx XCF.IntLib
+Xilinx XC1700E.IntLib
+Xilinx XC1700.IntLib
+Xilinx XC17S00.IntLib
+Xilinx XC17S00A.IntLib
+Xilinx XC17V00.IntLib
+Xilinx XC18V00.IntLib
+Xilinx Memory SPROM.IntLib
+Xilinx CoolRunner XPLA3.IntLib
+Xilinx CoolRunner II.IntLib
+Xilinx PLD XC9500.IntLib
+Xilinx PLD XC9500XL.IntLib
+Xilinx PLD XC9500XV.IntLib
+Xilinx PLD XC7000.IntLib
+Log_280709.txt

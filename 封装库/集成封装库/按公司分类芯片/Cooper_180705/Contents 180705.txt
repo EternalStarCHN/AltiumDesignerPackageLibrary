@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Coiltronics
+Batch Number 180705
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Coiltronics Passive Transformer.IntLib
+Log180705.txt

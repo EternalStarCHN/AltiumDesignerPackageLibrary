@@ -1,0 +1,34 @@
+Altium Limited
+
+
+Fairchild Semiconductor
+Batch Number 130709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+FSC Discrete Rectifier.IntLib
+FSC Discrete Diode.IntLib
+FSC Discrete BJT.IntLib
+FSC Logic Arithmetic.IntLib
+FSC Logic Buffer Line Driver.IntLib
+FSC Logic Comparator.IntLib
+FSC Logic Counter.IntLib
+FSC Logic Decoder Demux.IntLib
+FSC Logic Flip-Flop.IntLib
+FSC Logic Gate.IntLib
+FSC Logic Latch.IntLib
+FSC Logic Multiplexer.IntLib
+FSC Logic Multivibrator.IntLib
+FSC Logic Parity Gen Check Detect.IntLib
+FSC Logic Register.IntLib
+FSC Logic Switch.IntLib
+FSC Logic Translator.IntLib
+FSC Logic Clock Clock Support.IntLib
+FSC Interface Display Driver.IntLib
+FSC Interface Line Transceiver.IntLib
+FSC Amplifier Buffer.IntLib
+FSC Comm Phase Locked Loop.IntLib
+FSC Interface Line Receiver.IntLib
+FSC Video Generator Circuit.IntLib
+Log_130709.txt

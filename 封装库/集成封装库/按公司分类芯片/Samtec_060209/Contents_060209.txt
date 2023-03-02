@@ -1,0 +1,11 @@
+Altium Limited
+
+
+Samtec
+Batch Number 060209
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Samtec Connector Board-to-Board.IntLib
+Log_060209.txt

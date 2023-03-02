@@ -1,0 +1,16 @@
+Altium Limited
+
+
+Molex
+Batch Number 220709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Molex Docking Station.IntLib
+Molex FPC-FFC.IntLib
+Molex Modular Jack Right Angle.IntLib
+Molex Modular Jack Vertical.IntLib
+Molex Modular Jack Bottom.IntLib
+Molex Serial Bus Mini USB.IntLib
+Log_220709.txt

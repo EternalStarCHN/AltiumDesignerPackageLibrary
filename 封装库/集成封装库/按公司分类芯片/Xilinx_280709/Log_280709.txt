@@ -1,0 +1,87 @@
+Altium Limited
+
+
+Xilinx
+Batch Number 280709
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+29-May-2009
+30-Apr-2009
+24-Apr-2009
+17-Mar-2009
+05-Mar-2009
+17-Oct-2008
+27-Jun-2008
+30-May-2008
+20-Jul-2007
+14-May-2007
+26-Feb-2007
+12-Dec-2006
+08-Sep-2006
+30-Jun-2006
+13-Apr-2006
+02-Mar-2006
+16-Dec-2005
+06-Oct-2005
+08-Jul-2005
+06-Jun-2005
+04-Mar-2005
+13-Dec-2004
+19-Mar-2004
+17-Dec-2003
+17-Sep-2003
+16-Apr-2003
+28-Feb-2003
+17-Jan-2003
+23-Sep-2002
+19-Jul-2002
+17-Jul-2002
+15-Apr-2002
+19-Sep-2001
+13-Jul-2001
+25-Jan-2001
+08-Jun-2000
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+29-May-2009
+30-Apr-2009
+24-Apr-2009
+17-Mar-2009
+05-Mar-2009
+17-Oct-2008
+27-Jun-2008
+30-May-2008
+
+Component          IntLib Name                Description
+---------------------------------------------------------
+18 components       Xilinx Spartan-3          Component Added
+8 components        Xilinx Spartan-3A DSP     Component Added
+24 components       Xilinx Spartan-3A         Component Added
+4 components        Xilinx Spartan-3E         Component Added
+154 components      Xilinx Virtex-5           Component Added
+20 components       Xilinx Virtex-5           NC pins changed to Power
+2 components        Xilinx XCF                Component Added
+
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

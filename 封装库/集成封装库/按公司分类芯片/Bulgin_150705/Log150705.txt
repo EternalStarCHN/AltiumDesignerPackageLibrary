@@ -1,0 +1,35 @@
+Altium Limited
+
+
+Bulgin Components
+Batch Number 150705
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+06-Jun-2005
+15-Jul-2004
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+06-Jun-2005 URL Support Added.
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

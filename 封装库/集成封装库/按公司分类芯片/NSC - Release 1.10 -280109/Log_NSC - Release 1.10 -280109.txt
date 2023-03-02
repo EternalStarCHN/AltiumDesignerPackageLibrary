@@ -1,0 +1,73 @@
+Altium Limited
+
+
+National Semiconductor
+Batch Number NSC - Release 1.10 -280109
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+28-Jan-2010
+25-Jan-2010
+09-Oct-2009
+15-Jul-2009
+29-May-2009
+04-May-2009
+07-Apr-2009
+13-Jan-2009
+04-Dec-2008
+
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+28-Jan-2010
+
+
+Component          	    IntLib Name               Description
+-------------------------------------------------------------
+LM5001SD, LM5002SD      NSC MiscPower             Sch Pinout Revised
+LM5001SD, LM5002SD      NSC Switcher              Sch Pinout Revised
+
+
+
+Release 1.9 Modifications
+~~~~~~~~~~~~~~~~~~~
+25-Jan-2010
+09-Oct-2009
+
+
+Component          	   IntLib Name                Description
+-------------------------------------------------------------
+ADC128S102WGRQV         NSC ADC                   Component Added
+10 components      		NSC Amplifier             Component Added
+LMH6321TS          		NSC Amplifier             Pin 8 name changed from DAP to TAB.
+LMP2012MA, LMP2016MA 	NSC Amplifier     	  	  Single Op Amp replaced with Dual Op Amp.
+LM48557TL, LMV1090TL    NSC Audio                 Component Added
+DAC121S101WGRQV			NSC DAC.IntLib		  	  Datasheet and parameter update
+7 components     		NSC Interface             Component Added
+DS90CF386SLC       		NSC Interface             Revised
+2 components      		NSC LDO                   Component Added
+LM5100CMY, LM5101CMY    NSC MiscPower             Component Added
+33 components      		NSC Switcher              Component Added
+5 components      		NSC Switcher              Revised
+5 components     		NSC Temperature Sensor    Component Added
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

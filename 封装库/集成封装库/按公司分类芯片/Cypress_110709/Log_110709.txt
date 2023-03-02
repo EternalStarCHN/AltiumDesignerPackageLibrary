@@ -1,0 +1,56 @@
+Altium Limited
+
+
+Cypress Semiconductor
+Batch Number 110709
+
+
+Publication History
+~~~~~~~~~~~~~~~~~~~
+29-May-2009
+16-Oct-2006
+30-Jun-2006
+13-Apr-2006
+02-Mar-2006
+16-Dec-2005
+06-Oct-2005
+04-Mar-2005
+26-May-2004
+28-Feb-2003
+11-Dec-2002
+
+
+Latest Modification
+~~~~~~~~~~~~~~~~~~~
+16-Oct-2006
+
+Component         IntLib Name                                      Description
+------------------------------------------------------------------------------
+15 components     Cypress Memory Static RAM                        Footprint pinout fixed
+7 components      Cypress Peripheral Multifunction Controller      IPC-7351 Footprint Added
+
+
+
+Library Missing from Zip file
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Following library has been included in the software library suite, but absent from the
+downloadable zip file on the Altium website: 'Cypress Microcontroller 8-Bit.IntLib'.
+
+
+Revision History
+~~~~~~~~~~~~~~~~
+For complete revision history please see latest version of the Library Index.
+
+
+Reporting Errors
+~~~~~~~~~~~~~~~~~~
+Any errors in these libraries should be reported to the Altium Library
+Development Center so that they can be rectified immediately.
+A form has been provided for this purpose on the Library section
+of the Altium website (www.altium.com/Community/Support/Libraries/).
+
+
+Library News
+~~~~~~~~~~~~~~
+Notification of Amendments and Updates to these libraries will be sent
+via the "Library News" e-mail list.  See www.altium.com/Community/Support/Libraries/

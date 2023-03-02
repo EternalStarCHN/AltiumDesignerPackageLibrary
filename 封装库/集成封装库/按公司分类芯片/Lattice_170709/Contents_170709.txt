@@ -1,0 +1,39 @@
+Altium Limited
+
+
+Lattice Semiconductor
+Batch Number 170709
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+Lattice FPGA EC.IntLib
+Lattice FPGA ECP.IntLib
+Lattice FPGA ECP2.IntLib
+Lattice FPGA ECP2M.IntLib
+Lattice ispXPGA.IntLib
+Lattice MachXO.IntLib
+Lattice FPGA SC.IntLib
+Lattice FPGA XP.IntLib
+Lattice FPGA XP2.IntLib
+Lattice CPLD ispLSI 5000VE.IntLib
+Lattice CPLD ispLSI.IntLib
+Lattice CPLD ispMACH 4000B.IntLib
+Lattice CPLD ispMACH 4000C.IntLib
+Lattice CPLD ispMACH 4000V.IntLib
+Lattice CPLD ispMACH 4000Z.IntLib
+Lattice CPLD ispMACH 5000B.IntLib
+Lattice CPLD ispMACH 5000VG.IntLib
+Lattice ispPAC.IntLib
+Lattice ispGDX.IntLib
+Lattice CPLD ispXPLD 5000MX.IntLib
+Lattice Logic Switch.IntLib
+Lattice ORCA Series 2.IntLib
+Lattice ORCA Series 3.IntLib
+Lattice ORCA Series 4.IntLib
+Lattice FPGA FPSC.IntLib
+Lattice CPLD ispMACH.IntLib
+Lattice Simple PLD.IntLib
+Lattice SPLD GAL.IntLib
+Lattice SPLD ispGAL.IntLib
+Log_170709.txt

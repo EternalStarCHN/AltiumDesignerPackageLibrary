@@ -1,0 +1,21 @@
+Altium Limited
+
+
+NEC
+Batch Number 211207
+
+
+Record of Contents
+~~~~~~~~~~~~~~~~~~
+NEC Microcontroller 32-Bit ARM.IntLib
+NEC Microcontroller 4-Bit.IntLib
+NEC DSP 16-Bit.IntLib
+NEC Microcontroller 8-Bit.IntLib
+NEC Peripheral Floppy Disk Controller.IntLib
+NEC Peripheral Graphics Display Controller.IntLib
+NEC Peripheral GPIB Interface Controller.IntLib
+NEC Peripheral Hard Disk Controller.IntLib
+NEC Peripheral LCD Controller.IntLib
+NEC Peripheral Multifunction Controller.IntLib
+NEC Peripheral Speech Processor.IntLib
+Log_211207.txt
